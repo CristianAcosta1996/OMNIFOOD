@@ -1,2 +1,3 @@
 # OMNIFOOD
-Proyecto del curso HTML y CSS 
+
+Proyecto del curso HTML y CSS
